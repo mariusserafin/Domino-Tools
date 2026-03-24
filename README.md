@@ -1,0 +1,1 @@
+Sammlung interner Werkzeuge und Hilfsprogramme für Domino-Drucksysteme und angrenzende Automatisierungstechnik. Enthält u. a. Tools für TCP-Kommunikation, Druckerstatus-Abfrage, Protokoll-Proxies (TCP/Seriell), Druckeremulation, ZPL-Kompatibilitätsprüfung, Waveform-Editing, DA Datenbank-Backup/-Restore und diverse Diagnose-Tools. 
